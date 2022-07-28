@@ -1,0 +1,11 @@
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/controller/UsersController.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/dto/UserDTO.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/repository/UsersRepository.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/dto/LoanDTO.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/response/LoansResponse.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/dto/PagingDTO.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/repository/LoansRepository.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/model/User.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/model/Loan.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/controller/LoansController.java
+/home/galvarez/Documentos/Java/api-cash/src/main/java/com/api/cash/CashApplication.java
